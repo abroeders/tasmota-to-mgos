@@ -3,6 +3,9 @@
 # Shelly Firmware
 https://api.shelly.cloud/files/firmware
 
+# Tasmota Firmware
+https://ota.tasmota.com/tasmota/release-10.0.0/
+
 # Convert to Mongoose OS
 
 A minimal firmware for OTA (over the air) flashing Mongoose OS from Tasmota
