@@ -1,5 +1,8 @@
 > ⚠ Unfortunately, due to missing time, I will no longer be able to maintain this repository. If you are interested, I encourage you to fork the project and continue development.
 
+# Shelly Firmware
+https://api.shelly.cloud/files/firmware
+
 # Convert to Mongoose OS
 
 A minimal firmware for OTA (over the air) flashing Mongoose OS from Tasmota
